@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **atikul69/atikul69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,12 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20Everyone!)
 
-
-```yaml
-* YOUR TEXT GOES HERE *
-```
