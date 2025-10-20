@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-
-**atikul69/atikul69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on Building custom WordPress plugins and themes, focusing on performance, modular architecture, and ThemeForest compliance.
 - 🌱 I’m currently learning Advanced WordPress plugin development using React and REST API — integrating dynamic dashboards, AJAX filters, and modern UI components.
 - 👯 I’m looking to collaborate on Open-source WordPress projects, plugin development, or React-based admin dashboards.
